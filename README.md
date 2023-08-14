@@ -18,8 +18,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/html-and-css-solution-using-flexbox-oAXqocyvNL)
+- [Live Site URL](https://kiberdron.github.io/qr-code-component)
 
 ### Built with
 
